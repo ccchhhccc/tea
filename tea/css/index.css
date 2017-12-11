@@ -1,0 +1,68 @@
+*{padding: 0;margin: 0;}
+.selectl{width: 250px;float: left;}
+.selectl{background: #366e51;}
+.selectl ul{height: 460px;}
+.selectl ul li{width: 250px;height: 49px;}
+.selectl ul li:hover{background: #00ba31;}
+.selectl ul li img{float: left;margin-left: 25px;margin-top: 10px;}
+.selectl ul li a{float: left;margin-left: 10px;color: #fff;font-size: 14px;margin-top: 18px;}
+.selectl ul li a:hover{color: red;text-decoration: underline;}
+.selectl ul li a:hover .r{color: red;}
+.selectl ul li span{float: right;margin-right: 46px;color: #fff;margin-top: 15px;}
+
+.hoverblock{width: 688px;height: 438px;padding-left: 30px;padding-right: 30px;padding-top: 10px;padding-bottom: 10px;font-size: 14px;border: #ccc 1px solid;position: absolute;left: 250px;background: #fff;z-index: 1;padding: 23px 40px 0 30px;display: none;}
+.hoverblock p{width: 500px;overflow: hidden;}
+.hoverblock span{float: left;font-size: 12px;color: #666666;line-height: 32px;width: 70px;}
+.hoverblock em{float: left;font-size: 12px;color: #666666;line-height: 32px;margin-right: 25px;font-style: normal;}
+.kind{margin-bottom: 15px;overflow: hidden;}
+.hoverblock img{height: 150px;display: block;}
+
+.selectr{float: left;}
+.playimg{width: 1000px;height: 460px;position: relative;overflow: hidden;}
+.playimg ul{position: absolute;}
+.playimg li{float: left;}
+.playimg li img{float: left;width: 1000px;height: 460px;}
+.show{width: 1270px;height: 230px;margin: auto;overflow: hidden;padding-top: 10px;}
+.show img{float: left;margin: 0 8px;}
+.temai{width: 1250px;height: 50px;background: #f30000;line-height: 50px;margin: 50px auto 15px auto;}
+.temai i {width: 10px;height: 10px;border-radius: 50%;background: #fff;margin-left: 15px;margin-right: 5px;display: inline-block;}
+.temai b{font-size: 24px;color: #fff;}
+.temai span{float: right;color: #fff;font-size: 14px;margin-right: 15px;}
+.tmimg{width: 1260px;height: 350px;margin: 0 auto;margin-bottom: 40px;}
+.tmimg img{float: left;margin: 0 7px;}
+.list{background: #f2f2f2;padding-top: 40px;padding-bottom: 120px;}
+.listtitle{width: 1250px;height: 50px;background: #00ba31;line-height: 50px;margin: 0 auto 15px auto;}
+.listtitle i {width: 10px;height: 10px;border-radius: 50%;background: #fff;margin-left: 15px;margin-right: 5px;display: inline-block;}
+.listtitle b{font-size: 24px;color: #fff;}
+.green{height: 48px;border-top: 2px solid #00ba31;margin: 0 auto;width: 1250px;margin-bottom: 15px;}
+.gt{background: #00ba31;float: left;height: 48px;width: 243px;}
+.gt span{float:left;font-size: 18px;color: #fff;margin-left: 36px;margin-top: 13px;}
+.more{float: left;background: #d9ecde;height: 48px;width: 1007px;}
+.more span{margin-right: 10px;font-size: 14px;margin-top: 17px;float: right;margin-top: 17px;}
+.listimg ul{width: 1260px;margin: 0 auto;overflow: hidden;
+    margin-bottom: 40px;}
+.listimg ul li{float: left;width: 240px;height: 300px;margin:  0 5px;}
+.listimg ul li img{display: block;}
+.listimg ul li:nth-of-type(1){float: left;position: relative;}
+.listimg ul li:nth-of-type(1) .price{position: absolute;bottom:0;height: 58px;padding-top:15px;width: 100%;background: rgba(0,0,0,0.5);}
+.listimg ul li .price{height: 58px;padding-top:15px;width: 100%;background: #fff;}
+.listimg{text-align: center;overflow: hidden;}
+.listimg ul li:nth-of-type(1) p{color: #fff;text-align: center;font-size: 12px;margin-bottom: 5px;}
+.listimg ul li span{color: red;text-align: center;font-size: 12px;}
+.prep{text-decoration: line-through;margin-left: 5px;}
+.listimg ul li .currp{font-size: 16px;}
+.listimg ul li p{white-space: nowrap;text-overflow: ellipsis;color: #454548;text-align: center;font-size: 12px;margin-bottom: 5px;}
+.pj{overflow: hidden;}
+.pjtitle{width: 1250px;height: 50px;background: #00ba31;line-height: 50px;margin: 0 auto 15px auto;}
+.pjtitle i {width: 10px;height: 10px;border-radius: 50%;background: #fff;margin-left: 15px;margin-right: 5px;display: inline-block;}
+.pjtitle b{font-size: 24px;color: #fff;}
+.pj ul{margin: 0 auto;width: 1260px;}
+.pj ul li{width: 394px;float: left;padding: 8px;height: 456px;background: #FFFFFF;margin: 0 5px;}
+.pj .picbox{width: 394px;height: 210px;background: #fff;overflow: hidden;}
+.word{font-size: 14px;margin: 0 27px;line-height: 24px;margin-top: 40px;height: 95px;cursor: pointer;}
+.from{font-size: 12px;margin: 0 27px;color: #afadad;margin-top: 30px;margin-bottom: 16px;cursor: pointer;}
+.pruname{font-size: 12px;margin: 0 27px;cursor: pointer;}
+.pruname span{color:#ff0000}
+.word:hover{text-decoration: underline;}
+
+
